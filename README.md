@@ -1,3 +1,4 @@
 # puzzlegame
- Simple puzzle game
+ Simple puzzle game  
+ 
 A puzzle game was written using JFrame
